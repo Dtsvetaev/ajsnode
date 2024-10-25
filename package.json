@@ -1,0 +1,23 @@
+{
+  "name": "@dtsvetaev/ajsnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtsvetaev/ajsnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtsvetaev/ajsnode/issues"
+  },
+  "homepage": "https://github.com/Dtsvetaev/ajsnode#readme",
+  "dependencies": {
+    "@dtsvetaev/ajs": "^1.0.0"
+  }
+}
